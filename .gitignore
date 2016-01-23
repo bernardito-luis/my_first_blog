@@ -3,5 +3,6 @@ __pycache__
 myenv/
 db.sqlite3
 .DS_Store
-
+help.py
+prob.py
 
